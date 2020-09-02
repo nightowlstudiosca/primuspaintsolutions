@@ -16,7 +16,7 @@ function App() {
         <h2>
           Email
         </h2>
-        <a href="mailto:amal@primuspaint.ca">amal@primuspaint.ca</a> 
+        <a href="mailto:amal@primuspaintsolutions.ca">amal@primuspaintsolutions.ca</a> 
         <h2>
           Contact Number
         </h2>
