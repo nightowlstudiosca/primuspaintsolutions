@@ -21,9 +21,6 @@ function App() {
           Contact Number
         </h2>
         <a href="tel:7808845848">780-884-5848</a>
-        {/* <p>
-          Please email us at <a href="mailto:amal@primuspaint.ca">amal@primuspaint.ca</a>, or contact us at <a href="tel:7808845848">780-884-5848</a>.
-        </p> */}
       </section>
     </div>
   );
